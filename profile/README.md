@@ -11,6 +11,6 @@ applications to take full advantage of CXL memory.
 
 The `cxl-micron-reskit` repository is the top-level repo for the CMRK.  From there you can:
 
-* Read the [documentation](https://github.com/cxl-micron-reskit/cxl-micron-reskit) to learn more about
+* Read the [documentation](https://github.com/cxl-micron-reskit/cxl-reskit) to learn more about
 CXL memory and the CMRK
-* Ask a question, share ideas, or read announcements in the CMRK [discussions forum](https://github.com/cxl-micron-reskit/cxl-micron-reskit/discussions)
+* Ask a question, share ideas, or read announcements in the CMRK [discussions forum](https://github.com/cxl-micron-reskit/cxl-reskit/discussions)
